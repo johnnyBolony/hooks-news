@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-news/static/css/main.44a987e0.chunk.css",
+    "main.js": "/hooks-news/static/js/main.96c7e07e.chunk.js",
+    "main.js.map": "/hooks-news/static/js/main.96c7e07e.chunk.js.map",
+    "runtime-main.js": "/hooks-news/static/js/runtime-main.22d4f003.js",
+    "runtime-main.js.map": "/hooks-news/static/js/runtime-main.22d4f003.js.map",
+    "static/js/2.d66ebe27.chunk.js": "/hooks-news/static/js/2.d66ebe27.chunk.js",
+    "static/js/2.d66ebe27.chunk.js.map": "/hooks-news/static/js/2.d66ebe27.chunk.js.map",
+    "index.html": "/hooks-news/index.html",
+    "precache-manifest.5c3555ac0f233db2723196303af3bf35.js": "/hooks-news/precache-manifest.5c3555ac0f233db2723196303af3bf35.js",
+    "service-worker.js": "/hooks-news/service-worker.js",
+    "static/css/main.44a987e0.chunk.css.map": "/hooks-news/static/css/main.44a987e0.chunk.css.map",
+    "static/js/2.d66ebe27.chunk.js.LICENSE": "/hooks-news/static/js/2.d66ebe27.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22d4f003.js",
+    "static/js/2.d66ebe27.chunk.js",
+    "static/css/main.44a987e0.chunk.css",
+    "static/js/main.96c7e07e.chunk.js"
+  ]
+}
