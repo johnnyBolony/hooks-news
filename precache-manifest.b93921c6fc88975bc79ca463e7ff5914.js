@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74cd4119a764689deaa9e631e2266078",
+    "revision": "f08f19f313d1b305e7141e8261df6e5c",
     "url": "/hooks-news/index.html"
   },
   {
-    "revision": "405615406972e2a8c4e2",
+    "revision": "3debf9903d8e2da1c056",
     "url": "/hooks-news/static/css/main.44a987e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hooks-news/static/js/2.d66ebe27.chunk.js.LICENSE"
   },
   {
-    "revision": "405615406972e2a8c4e2",
-    "url": "/hooks-news/static/js/main.96c7e07e.chunk.js"
+    "revision": "3debf9903d8e2da1c056",
+    "url": "/hooks-news/static/js/main.0615d903.chunk.js"
   },
   {
     "revision": "303480cab3e2fefc4e76",
